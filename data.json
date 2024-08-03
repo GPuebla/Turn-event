@@ -1,0 +1,1004 @@
+[
+    {
+      "nombre": "Augusto Arián Calisaya Wünkhaus",
+      "barrio": "Gutierrez",
+      "asignacion": "Cubre Calzado",
+      "fechas": [
+        {"fecha": "22/8/2024", "turno": "Mañana-1"},
+        {"fecha": "29/8/2024", "turno": "Mañana-1"},
+        {"fecha": "5/9/2024", "turno": "Mañana-1"}
+      ]
+    },
+    {
+      "nombre": "Pilar Agostina Alvarez Dominguez",
+      "barrio": "Gutierrez",
+      "asignacion": "Cubre Calzado",
+      "fechas": [
+        {"fecha": "22/8/2024", "turno": "Tarde-2"},
+        {"fecha": "29/8/2024", "turno": "N/A"},
+        {"fecha": "5/9/2024", "turno": "Tarde-2"}
+      ]
+    },
+    {
+      "nombre": "Malena Dafne Alvarez Dominguez",
+      "barrio": "Gutierrez",
+      "asignacion": "Cubre Calzado",
+      "fechas": [
+        {"fecha": "22/8/2024", "turno": "Tarde-2"},
+        {"fecha": "29/8/2024", "turno": "N/A"},
+        {"fecha": "5/9/2024", "turno": "Tarde-2"}
+      ]
+    },
+    {
+      "nombre": "Paloma Tidei",
+      "barrio": "Gutierrez",
+      "asignacion": "Cubre Calzado",
+      "fechas": [
+        {"fecha": "22/8/2024", "turno": "Tarde-2"},
+        {"fecha": "29/8/2024", "turno": "Mañana-2"},
+        {"fecha": "5/9/2024", "turno": "Tarde-2"}
+      ]
+    },
+    {
+      "nombre": "Santiago Alejandro Acosta",
+      "barrio": "Gutierrez",
+      "asignacion": "Cubre Calzado",
+      "fechas": [
+        {"fecha": "22/8/2024", "turno": "Mañana-1"},
+        {"fecha": "29/8/2024", "turno": "Noche-2"},
+        {"fecha": "5/9/2024", "turno": "Noche-2"}
+      ]
+    },
+    {
+      "nombre": "Martín Gonzalo Vilche Aguero",
+      "barrio": "Gutierrez",
+      "asignacion": "Cubre Calzado",
+      "fechas": [
+        {"fecha": "22/8/2024", "turno": "Mañana-1"},
+        {"fecha": "29/8/2024", "turno": "Noche-2"},
+        {"fecha": "5/9/2024", "turno": "Noche-2"}
+      ]
+    },
+    {
+      "nombre": "Lua Monserrat Moreno",
+      "barrio": "Gutierrez",
+      "asignacion": "Cubre Calzado",
+      "fechas": [
+        {"fecha": "22/8/2024", "turno": "N/A"},
+        {"fecha": "29/8/2024", "turno": "Noche-2"},
+        {"fecha": "5/9/2024", "turno": "Noche-2"}
+      ]
+    },
+    {
+      "nombre": "Giuliana Alma Morena Vilche Sinchicay",
+      "barrio": "Gutierrez",
+      "asignacion": "Cubre Calzado",
+      "fechas": [
+        {"fecha": "22/8/2024", "turno": "Noche-1"},
+        {"fecha": "29/8/2024", "turno": "Noche-1"},
+        {"fecha": "5/9/2024", "turno": "Noche-1"}
+      ]
+    },
+    {
+      "nombre": "Acosta, Alejandro Pablo & Nancy Gladys",
+      "barrio": "Gutierrez",
+      "asignacion": "Guía de Recorrido",
+      "fechas": [
+        {"fecha": "22/8/2024", "turno": "Mañana-1"},
+        {"fecha": "29/8/2024", "turno": "Noche-2"},
+        {"fecha": "5/9/2024", "turno": "N/A"}
+      ]
+    },
+    {
+      "nombre": "Calisaya , Augusto Luis & María Soledad",
+      "barrio": "Gutierrez",
+      "asignacion": "Guía de Recorrido",
+      "fechas": [
+        {"fecha": "22/8/2024", "turno": "Mañana-1"},
+        {"fecha": "29/8/2024", "turno": "Mañana-1"},
+        {"fecha": "5/9/2024", "turno": "Mañana-1"}
+      ]
+    },
+    {
+      "nombre": "Saad, Guillermo Abel & Melisa Ayelen",
+      "barrio": "Gutierrez",
+      "asignacion": "Guía de Recorrido",
+      "fechas": [
+        {"fecha": "22/8/2024", "turno": "Mañana-2"},
+        {"fecha": "29/8/2024", "turno": "Mañana-2"},
+        {"fecha": "5/9/2024", "turno": "Mañana-2"}
+      ]
+    },
+    {
+      "nombre": "Patiño, Alberto William & Carina Dolores",
+      "barrio": "Gutierrez",
+      "asignacion": "Guía de Recorrido",
+      "fechas": [
+        {"fecha": "22/8/2024", "turno": "N/A"},
+        {"fecha": "29/8/2024", "turno": "Tarde-2"},
+        {"fecha": "5/9/2024", "turno": "N/A"}
+      ]
+    },
+    {
+      "nombre": "Azcurra, Aldo Antonio & Johana Marina",
+      "barrio": "Gutierrez",
+      "asignacion": "Guía de Recorrido",
+      "fechas": [
+        {"fecha": "22/8/2024", "turno": "Mañana-1"},
+        {"fecha": "29/8/2024", "turno": "Mañana-1"},
+        {"fecha": "5/9/2024", "turno": "Mañana-1"}
+      ]
+    },
+    {
+      "nombre": "Italiani , Facundo Luciano & Fiorella Gretel",
+      "barrio": "Gutierrez",
+      "asignacion": "Guía de Recorrido",
+      "fechas": [
+        {"fecha": "22/8/2024", "turno": "Mañana-2"},
+        {"fecha": "29/8/2024", "turno": "Mañana-2"},
+        {"fecha": "5/9/2024", "turno": "Mañana-2"}
+      ]
+    },
+    {
+      "nombre": "Molto, Martin Alejandro & Maria Eugenia",
+      "barrio": "Gutierrez",
+      "asignacion": "Guía de Recorrido",
+      "fechas": [
+        {"fecha": "22/8/2024", "turno": "Mañana-2"},
+        {"fecha": "29/8/2024", "turno": "Mañana-2"},
+        {"fecha": "5/9/2024", "turno": "Mañana-2"}
+      ]
+    },
+    {
+      "nombre": "Vilches , Pablo Marcelo & Daiana",
+      "barrio": "Gutierrez",
+      "asignacion": "Guía de Recorrido",
+      "fechas": [
+        {"fecha": "22/8/2024", "turno": "Noche-1"},
+        {"fecha": "29/8/2024", "turno": "Noche-1"},
+        {"fecha": "5/9/2024", "turno": "Noche-1"}
+      ]
+    },
+    {
+      "nombre": "Puebla, Gabriel Alan & Camila Luciana",
+      "barrio": "Gutierrez",
+      "asignacion": "Guía de Recorrido",
+      "fechas": [
+        {"fecha": "22/8/2024", "turno": "Noche-1"},
+        {"fecha": "29/8/2024", "turno": "Noche-1"},
+        {"fecha": "5/9/2024", "turno": "Noche-1"}
+      ]
+    },
+    {
+      "nombre": "Longo, Juan Manuel & Vanina Valeria",
+      "barrio": "Gutierrez",
+      "asignacion": "Guía de Recorrido",
+      "fechas": [
+        {"fecha": "22/8/2024", "turno": "Tarde-2"},
+        {"fecha": "29/8/2024", "turno": "Tarde-2"},
+        {"fecha": "5/9/2024", "turno": "Tarde-2"}
+      ]
+    },
+    {
+      "nombre": "Walker , Joel Marcos & Carla Estefania",
+      "barrio": "Gutierrez",
+      "asignacion": "Guía de Recorrido",
+      "fechas": [
+        {"fecha": "22/8/2024", "turno": "Mañana-2"},
+        {"fecha": "29/8/2024", "turno": "Mañana-2"},
+        {"fecha": "5/9/2024", "turno": "Mañana-1"}
+      ]
+    },
+    {
+      "nombre": "Cardozo , Enrique Elvio & Carina Viviana",
+      "barrio": "Gutierrez",
+      "asignacion": "Guía de Recorrido",
+      "fechas": [
+        {"fecha": "22/8/2024", "turno": "Tarde-1"},
+        {"fecha": "29/8/2024", "turno": "Tarde-1"},
+        {"fecha": "5/9/2024", "turno": "Tarde-1"}
+      ]
+    },
+    {
+      "nombre": "Alvarez, Leonardo Dario & Natali Jacqueline",
+      "barrio": "Gutierrez",
+      "asignacion": "Guía de Recorrido",
+      "fechas": [
+        {"fecha": "22/8/2024", "turno": "Tarde-2"},
+        {"fecha": "29/8/2024", "turno": "Tarde-2"},
+        {"fecha": "5/9/2024", "turno": "Tarde-2"}
+      ]
+    },
+    {
+      "nombre": "Rossi, Héctor Mario & Nelida Patricia",
+      "barrio": "Gutierrez",
+      "asignacion": "Guía de Recorrido",
+      "fechas": [
+        {"fecha": "22/8/2024", "turno": "Mañana-2"},
+        {"fecha": "29/8/2024", "turno": "Mañana-2"},
+        {"fecha": "5/9/2024", "turno": "Mañana-2"}
+      ]
+    },
+    {
+      "nombre": "Molto, Alberto Jose & Amelia Beatriz",
+      "barrio": "Gutierrez",
+      "asignacion": "Guía de Recorrido",
+      "fechas": [
+        {"fecha": "22/8/2024", "turno": "Tarde-2"},
+        {"fecha": "29/8/2024", "turno": "Tarde-2"},
+        {"fecha": "5/9/2024", "turno": "Tarde-2"}
+      ]
+    },
+    {
+      "nombre": "Mandiola, Javier Angel & Natalia Carina",
+      "barrio": "Gutierrez",
+      "asignacion": "Guía de Recorrido",
+      "fechas": [
+        {"fecha": "22/8/2024", "turno": "Mañana-2"},
+        {"fecha": "29/8/2024", "turno": "Mañana-2"},
+        {"fecha": "5/9/2024", "turno": "Mañana-2"}
+      ]
+    },
+    {
+      "nombre": "Concepcion Scuppa",
+      "barrio": "Gutierrez",
+      "asignacion": "Acomodador",
+      "fechas": [
+        {"fecha": "22/8/2024", "turno": "Mañana-2"},
+        {"fecha": "29/8/2024", "turno": "Mañana-2"},
+        {"fecha": "5/9/2024", "turno": "Mañana-2"}
+      ]
+    },
+    {
+      "nombre": "Ana Laura Scalise",
+      "barrio": "Gutierrez",
+      "asignacion": "Acomodador",
+      "fechas": [
+        {"fecha": "22/8/2024", "turno": "Mañana-2"},
+        {"fecha": "29/8/2024", "turno": "Mañana-2"},
+        {"fecha": "5/9/2024", "turno": "Mañana-2"}
+      ]
+    },
+    {
+      "nombre": "Carina Estrella Celeste Moreno",
+      "barrio": "Gutierrez",
+      "asignacion": "Acomodador",
+      "fechas": [
+        {"fecha": "22/8/2024", "turno": "N/A"},
+        {"fecha": "29/8/2024", "turno": "N/A"},
+        {"fecha": "5/9/2024", "turno": "N/A"}
+      ]
+    },
+    {
+      "nombre": "Gaston Daniel Disparti",
+      "barrio": "Gutierrez",
+      "asignacion": "Acomodador",
+      "fechas": [
+        {"fecha": "22/8/2024", "turno": "Mañana-2"},
+        {"fecha": "29/8/2024", "turno": "Mañana-2"},
+        {"fecha": "5/9/2024", "turno": "Mañana-2"}
+      ]
+    },
+    {
+      "nombre": "Ema Liliana Rastelli Wunkhaus",
+      "barrio": "Gutierrez",
+      "asignacion": "Acomodador",
+      "fechas": [
+        {"fecha": "22/8/2024", "turno": "Tarde-2"},
+        {"fecha": "29/8/2024", "turno": "Tarde-2"},
+        {"fecha": "5/9/2024", "turno": "Noche-2"}
+      ]
+    },
+    {
+      "nombre": "Sandra Rosa Marcela Alonso",
+      "barrio": "Gutierrez",
+      "asignacion": "Acomodador",
+      "fechas": [
+        {"fecha": "22/8/2024", "turno": "Mañana-2"},
+        {"fecha": "29/8/2024", "turno": "Mañana-2"},
+        {"fecha": "5/9/2024", "turno": "Mañana-2"}
+      ]
+    },
+    {
+      "nombre": "Cecilia Ines Fogale",
+      "barrio": "Gutierrez",
+      "asignacion": "Acomodador",
+      "fechas": [
+        {"fecha": "22/8/2024", "turno": "Noche-2"},
+        {"fecha": "29/8/2024", "turno": "Noche-2"},
+        {"fecha": "5/9/2024", "turno": "Noche-2"}
+      ]
+    },
+    {
+      "nombre": "Hilda Yolanda Macanelli",
+      "barrio": "Gutierrez",
+      "asignacion": "Acomodador",
+      "fechas": [
+        {"fecha": "22/8/2024", "turno": "Mañana-2"},
+        {"fecha": "29/8/2024", "turno": "Mañana-2"},
+        {"fecha": "5/9/2024", "turno": "Mañana-2"}
+      ]
+    },
+    {
+      "nombre": "Lidia Liliana Carmona",
+      "barrio": "Gutierrez",
+      "asignacion": "Acomodador",
+      "fechas": [
+        {"fecha": "22/8/2024", "turno": "Tarde-1"},
+        {"fecha": "29/8/2024", "turno": "Tarde-1"},
+        {"fecha": "5/9/2024", "turno": "Tarde-2"}
+      ]
+    },
+    {
+      "nombre": "Alexander Agustin Salazar",
+      "barrio": "La Gloria",
+      "asignacion": "Acomodador",
+      "fechas": [
+        {"fecha": "22/8/2024", "turno": "Mañana-1"},
+        {"fecha": "29/8/2024", "turno": "Mañana-1"},
+        {"fecha": "5/9/2024", "turno": "Mañana-1"}
+      ]
+    },
+    {
+      "nombre": "Jael Danielli",
+      "barrio": "La Gloria",
+      "asignacion": "Acomodador",
+      "fechas": [
+        {"fecha": "22/8/2024", "turno": "Mañana-1"},
+        {"fecha": "29/8/2024", "turno": "Mañana-1"},
+        {"fecha": "5/9/2024", "turno": "Mañana-1"}
+      ]
+    },
+    {
+        "nombre": "Samuel Danielli",
+        "barrio": "La Gloria",
+        "asignacion": "Acomodador",
+        "fechas": [
+          {"fecha": "22/8/2024", "turno": "Tarde-1"},
+          {"fecha": "29/8/2024", "turno": "Tarde-1"},
+          {"fecha": "5/9/2024", "turno": "Tarde-1"}
+        ]
+      },
+      {
+        "nombre": "Tomás Enrique Olivera",
+        "barrio": "La Gloria",
+        "asignacion": "Acomodador",
+        "fechas": [
+          {"fecha": "22/8/2024", "turno": "Noche-1"},
+          {"fecha": "29/8/2024", "turno": "Noche-1"},
+          {"fecha": "5/9/2024", "turno": "Noche-1"}
+        ]
+      },
+      {
+        "nombre": "Felipe Ivan Fernandez Quiroga",
+        "barrio": "La Gloria",
+        "asignacion": "Acomodador",
+        "fechas": [
+          {"fecha": "22/8/2024", "turno": "Noche-1"},
+          {"fecha": "29/8/2024", "turno": "Noche-1"},
+          {"fecha": "5/9/2024", "turno": "Noche-1"}
+        ]
+      },
+      {
+        "nombre": "Rosalinda Dominga Aguirre",
+        "barrio": "La Gloria",
+        "asignacion": "Acomodador",
+        "fechas": [
+          {"fecha": "22/8/2024", "turno": "Tarde-1"},
+          {"fecha": "29/8/2024", "turno": "Tarde-1"},
+          {"fecha": "5/9/2024", "turno": "Tarde-1"}
+        ]
+      },
+      {
+        "nombre": "Candela Naoni Azcurra Galinanes",
+        "barrio": "La Gloria",
+        "asignacion": "Acomodador",
+        "fechas": [
+          {"fecha": "22/8/2024", "turno": "Noche-1"},
+          {"fecha": "29/8/2024", "turno": "Noche-1"},
+          {"fecha": "5/9/2024", "turno": "Noche-1"}
+        ]
+      },
+      {
+        "nombre": "Juan Coz Recabarren",
+        "barrio": "La Gloria",
+        "asignacion": "Acomodador",
+        "fechas": [
+          {"fecha": "22/8/2024", "turno": "Mañana-2"},
+          {"fecha": "29/8/2024", "turno": "Mañana-1"},
+          {"fecha": "5/9/2024", "turno": "Noche-2"}
+        ]
+      },
+      {
+        "nombre": "Maia Ailin Sandobal",
+        "barrio": "La Gloria",
+        "asignacion": "Acomodador",
+        "fechas": [
+          {"fecha": "22/8/2024", "turno": "Tarde-1"},
+          {"fecha": "29/8/2024", "turno": "Tarde-1"},
+          {"fecha": "5/9/2024", "turno": "Tarde-1"}
+        ]
+      },
+      {
+        "nombre": "Palavesino, Pablo Martin & Maria Eugenia",
+        "barrio": "La Gloria",
+        "asignacion": "Guía de Recorrido",
+        "fechas": [
+          {"fecha": "22/8/2024", "turno": "Mañana-2"},
+          {"fecha": "29/8/2024", "turno": "Mañana-2"},
+          {"fecha": "5/9/2024", "turno": "Mañana-2"}
+        ]
+      },
+      {
+        "nombre": "Mackern, Jorge Pablo David & Linda Elizabeth",
+        "barrio": "La Gloria",
+        "asignacion": "Guía de Recorrido",
+        "fechas": [
+          {"fecha": "22/8/2024", "turno": "Tarde-1"},
+          {"fecha": "29/8/2024", "turno": "N/A"},
+          {"fecha": "5/9/2024", "turno": "N/A"}
+        ]
+      },
+      {
+        "nombre": "Danielli, Mario Eduardo & Natalia Jael",
+        "barrio": "La Gloria",
+        "asignacion": "Guía de Recorrido",
+        "fechas": [
+          {"fecha": "22/8/2024", "turno": "Noche-1"},
+          {"fecha": "29/8/2024", "turno": "Noche-1"},
+          {"fecha": "5/9/2024", "turno": "Noche-1"}
+        ]
+      },
+      {
+        "nombre": "Videla, Flavio Marcelo & Nelida Mabel",
+        "barrio": "La Gloria",
+        "asignacion": "Guía de Recorrido",
+        "fechas": [
+          {"fecha": "22/8/2024", "turno": "Tarde-1"},
+          {"fecha": "29/8/2024", "turno": "Tarde-2"},
+          {"fecha": "5/9/2024", "turno": "Mañana-2"}
+        ]
+      },
+      {
+        "nombre": "Pavon, Leandro Narciso & Marina Mariela",
+        "barrio": "La Gloria",
+        "asignacion": "Guía de Recorrido",
+        "fechas": [
+          {"fecha": "22/8/2024", "turno": "Tarde-1"},
+          {"fecha": "29/8/2024", "turno": "Tarde-1"},
+          {"fecha": "5/9/2024", "turno": "Tarde-1"}
+        ]
+      },
+      {
+        "nombre": "Garcia, Leonardo Flavio & Gimena Gisel",
+        "barrio": "La Gloria",
+        "asignacion": "Guía de Recorrido",
+        "fechas": [
+          {"fecha": "22/8/2024", "turno": "Mañana-1"},
+          {"fecha": "29/8/2024", "turno": "Mañana-2"},
+          {"fecha": "5/9/2024", "turno": "Mañana-2"}
+        ]
+      },
+      {
+        "nombre": "Sandobal, Jorge Fabian & Vaneza Elizabeth",
+        "barrio": "La Gloria",
+        "asignacion": "Guía de Recorrido",
+        "fechas": [
+          {"fecha": "22/8/2024", "turno": "Noche-2"},
+          {"fecha": "29/8/2024", "turno": "Noche-2"},
+          {"fecha": "5/9/2024", "turno": "Noche-2"}
+        ]
+      },
+      {
+        "nombre": "Salazar, Julio Cesar & Carina Patricia",
+        "barrio": "La Gloria",
+        "asignacion": "Guía de Recorrido",
+        "fechas": [
+          {"fecha": "22/8/2024", "turno": "Mañana-2"},
+          {"fecha": "29/8/2024", "turno": "Mañana-2"},
+          {"fecha": "5/9/2024", "turno": "Mañana-2"}
+        ]
+      },
+      {
+        "nombre": "Galiñanes, Pedro Valentin & Noelia Mercedes",
+        "barrio": "La Gloria",
+        "asignacion": "Guía de Recorrido",
+        "fechas": [
+          {"fecha": "22/8/2024", "turno": "N/A"},
+          {"fecha": "29/8/2024", "turno": "Tarde-1"},
+          {"fecha": "5/9/2024", "turno": "Mañana-1"}
+        ]
+      },
+      {
+        "nombre": "Azcurra, Mario Nicolas & Liliana Elizabeth",
+        "barrio": "La Gloria",
+        "asignacion": "Guía de Recorrido",
+        "fechas": [
+          {"fecha": "22/8/2024", "turno": "Mañana-1"},
+          {"fecha": "29/8/2024", "turno": "Mañana-1"},
+          {"fecha": "5/9/2024", "turno": "Mañana-1"}
+        ]
+      },
+      {
+        "nombre": "Olivera, Guillermo Enrique & Jorgelina Inocencia",
+        "barrio": "La Gloria",
+        "asignacion": "Guía de Recorrido",
+        "fechas": [
+          {"fecha": "22/8/2024", "turno": "Mañana-2"},
+          {"fecha": "29/8/2024", "turno": "Mañana-2"},
+          {"fecha": "5/9/2024", "turno": "Mañana-2"}
+        ]
+      },
+      {
+        "nombre": "Comán, Nicolás Darío & Fanny Carina",
+        "barrio": "La Gloria",
+        "asignacion": "Guía de Recorrido",
+        "fechas": [
+          {"fecha": "22/8/2024", "turno": "Tarde-2"},
+          {"fecha": "29/8/2024", "turno": "Tarde-2"},
+          {"fecha": "5/9/2024", "turno": "Tarde-2"}
+        ]
+      },
+      {
+        "nombre": "Valdez, Jose Miguel & Ana Cristina",
+        "barrio": "La Gloria",
+        "asignacion": "Guía de Recorrido",
+        "fechas": [
+          {"fecha": "22/8/2024", "turno": "Tarde-2"},
+          {"fecha": "29/8/2024", "turno": "N/A"},
+          {"fecha": "5/9/2024", "turno": "N/A"}
+        ]
+      },
+      {
+        "nombre": "Benita Palavesino",
+        "barrio": "La Gloria",
+        "asignacion": "Acomodador",
+        "fechas": [
+          {"fecha": "22/8/2024", "turno": "Mañana-2"},
+          {"fecha": "29/8/2024", "turno": "Mañana-2"},
+          {"fecha": "5/9/2024", "turno": "Mañana-2"}
+        ]
+      },
+      {
+        "nombre": "Elvira Antonia Perdiguera",
+        "barrio": "La Gloria",
+        "asignacion": "Acomodador",
+        "fechas": [
+          {"fecha": "22/8/2024", "turno": "Tarde-2"},
+          {"fecha": "29/8/2024", "turno": "Tarde-2"},
+          {"fecha": "5/9/2024", "turno": "Tarde-2"}
+        ]
+      },
+      {
+        "nombre": "Angela Susel Arrieta",
+        "barrio": "La Gloria",
+        "asignacion": "Acomodador",
+        "fechas": [
+          {"fecha": "22/8/2024", "turno": "Tarde-2"},
+          {"fecha": "29/8/2024", "turno": "Tarde-2"},
+          {"fecha": "5/9/2024", "turno": "Tarde-2"}
+        ]
+      },
+      {
+        "nombre": "Melisa Rocio Calleja Gomez",
+        "barrio": "La Gloria",
+        "asignacion": "Acomodador",
+        "fechas": [
+          {"fecha": "22/8/2024", "turno": "Tarde-2"},
+          {"fecha": "29/8/2024", "turno": "Tarde-2"},
+          {"fecha": "5/9/2024", "turno": "Tarde-2"}
+        ]
+      },
+      {
+        "nombre": "Cayetana Lidia Gomez",
+        "barrio": "La Gloria",
+        "asignacion": "Acomodador",
+        "fechas": [
+          {"fecha": "22/8/2024", "turno": "Tarde-1"},
+          {"fecha": "29/8/2024", "turno": "Tarde-1"},
+          {"fecha": "5/9/2024", "turno": "Tarde-1"}
+        ]
+      },
+      {
+        "nombre": "Angelica Raquel Riquelme",
+        "barrio": "La Gloria",
+        "asignacion": "Acomodador",
+        "fechas": [
+          {"fecha": "22/8/2024", "turno": "Tarde-2"},
+          {"fecha": "29/8/2024", "turno": "Tarde-2"},
+          {"fecha": "5/9/2024", "turno": "Tarde-2"}
+        ]
+      },
+      {
+        "nombre": "Flavio Emanuel Videla",
+        "barrio": "La Gloria",
+        "asignacion": "Cubre Calzado",
+        "fechas": [
+          {"fecha": "22/8/2024", "turno": "Noche-1"},
+          {"fecha": "29/8/2024", "turno": "Noche-1"},
+          {"fecha": "5/9/2024", "turno": "Noche-1"}
+        ]
+      },
+      {
+        "nombre": "Magali Ailen Videla",
+        "barrio": "La Gloria",
+        "asignacion": "Cubre Calzado",
+        "fechas": [
+          {"fecha": "22/8/2024", "turno": "Tarde-2"},
+          {"fecha": "29/8/2024", "turno": "Tarde-1"},
+          {"fecha": "5/9/2024", "turno": "Tarde-1"}
+        ]
+      },
+      {
+        "nombre": "Thiago Joaquín Sandobal",
+        "barrio": "La Gloria",
+        "asignacion": "Cubre Calzado",
+        "fechas": [
+          {"fecha": "22/8/2024", "turno": "Tarde-2"},
+          {"fecha": "29/8/2024", "turno": "Tarde-2"},
+          {"fecha": "5/9/2024", "turno": "N/A"}
+        ]
+      },
+      {
+        "nombre": "Moreira, Carlos Daniel & Marta Susana",
+        "barrio": "Maipu",
+        "asignacion": "Guía de Recorrido",
+        "fechas": [
+          {"fecha": "22/8/2024", "turno": "Tarde-1"},
+          {"fecha": "29/8/2024", "turno": "Mañana-2"},
+          {"fecha": "5/9/2024", "turno": "Mañana-2"}
+        ]
+      },
+      {
+        "nombre": "Puebla, Ricardo Jesus & Mariela Jesica",
+        "barrio": "Maipu",
+        "asignacion": "Guía de Recorrido",
+        "fechas": [
+          {"fecha": "22/8/2024", "turno": "Tarde-1"},
+          {"fecha": "29/8/2024", "turno": "Tarde-1"},
+          {"fecha": "5/9/2024", "turno": "Tarde-1"}
+        ]
+      },
+      {
+        "nombre": "Banffi, Julio Manuel & Cintia Soledad",
+        "barrio": "Maipu",
+        "asignacion": "Guía de Recorrido",
+        "fechas": [
+          {"fecha": "22/8/2024", "turno": "Mañana-1"},
+          {"fecha": "29/8/2024", "turno": "Mañana-2"},
+          {"fecha": "5/9/2024", "turno": "Tarde-1"}
+        ]
+      },
+      {
+        "nombre": "Ruiz, Diego Alejandro & Daniela Emilce",
+        "barrio": "Maipu",
+        "asignacion": "Guía de Recorrido",
+        "fechas": [
+          {"fecha": "22/8/2024", "turno": "Tarde-1"},
+          {"fecha": "29/8/2024", "turno": "Tarde-1"},
+          {"fecha": "5/9/2024", "turno": "Tarde-1"}
+        ]
+      },
+      {
+        "nombre": "Cruz, Eugenio Francisco & Sonia Silvia",
+        "barrio": "Maipu",
+        "asignacion": "Guía de Recorrido",
+        "fechas": [
+          {"fecha": "22/8/2024", "turno": "Mañana-2"},
+          {"fecha": "29/8/2024", "turno": "Mañana-2"},
+          {"fecha": "5/9/2024", "turno": "Mañana-2"}
+        ]
+      },
+      {
+        "nombre": "Magallanes, Mario Cecilio & Patricia Fabiana",
+        "barrio": "Maipu",
+        "asignacion": "Guía de Recorrido",
+        "fechas": [
+          {"fecha": "22/8/2024", "turno": "Mañana-1"},
+          {"fecha": "29/8/2024", "turno": "Mañana-1"},
+          {"fecha": "5/9/2024", "turno": "Mañana-1"}
+        ]
+      },
+      {
+        "nombre": "Farias, Arón Eduardo & Lucia",
+        "barrio": "Maipu",
+        "asignacion": "Guía de Recorrido",
+        "fechas": [
+          {"fecha": "22/8/2024", "turno": "Mañana-1"},
+          {"fecha": "29/8/2024", "turno": "N/A"},
+          {"fecha": "5/9/2024", "turno": "Tarde-2"}
+        ]
+      },
+      {
+        "nombre": "Lissandrello, Daniel Alberto & Viviana Valeria",
+        "barrio": "Maipu",
+        "asignacion": "Guía de Recorrido",
+        "fechas": [
+          {"fecha": "22/8/2024", "turno": "Noche-2"},
+          {"fecha": "29/8/2024", "turno": "Noche-2"},
+          {"fecha": "5/9/2024", "turno": "Noche-2"}
+        ]
+      },
+      {
+        "nombre": "Gonzalez, Diego Jesus & Jessica Ana",
+        "barrio": "Maipu",
+        "asignacion": "Guía de Recorrido",
+        "fechas": [
+          {"fecha": "22/8/2024", "turno": "N/A"},
+          {"fecha": "29/8/2024", "turno": "N/A"},
+          {"fecha": "5/9/2024", "turno": "N/A"}
+        ]
+      },
+      {
+        "nombre": "Silvia Rosa Capdevila",
+        "barrio": "Maipu",
+        "asignacion": "Acomodador",
+        "fechas": [
+          {"fecha": "22/8/2024", "turno": "Mañana-1"},
+          {"fecha": "29/8/2024", "turno": "Tarde-2"},
+          {"fecha": "5/9/2024", "turno": "Mañana-2"}
+        ]
+      },
+      {
+        "nombre": "Mercedes Graciela Principiano",
+        "barrio": "Maipu",
+        "asignacion": "Acomodador",
+        "fechas": [
+          {"fecha": "22/8/2024", "turno": "Tarde-2"},
+          {"fecha": "29/8/2024", "turno": "Tarde-2"},
+          {"fecha": "5/9/2024", "turno": "Tarde-2"}
+        ]
+      },
+      {
+        "nombre": "Matilde Susana Guevara",
+        "barrio": "Maipu",
+        "asignacion": "Acomodador",
+        "fechas": [
+          {"fecha": "22/8/2024", "turno": "Tarde-2"},
+          {"fecha": "29/8/2024", "turno": "Tarde-2"},
+          {"fecha": "5/9/2024", "turno": "Tarde-2"}
+        ]
+      },
+      {
+        "nombre": "Mirtha Ramona Guaquinchay",
+        "barrio": "Maipu",
+        "asignacion": "Acomodador",
+        "fechas": [
+          {"fecha": "22/8/2024", "turno": "Tarde-2"},
+          {"fecha": "29/8/2024", "turno": "Tarde-2"},
+          {"fecha": "5/9/2024", "turno": "Tarde-2"}
+        ]
+      },
+      {
+        "nombre": "Maria Esther Todescat",
+        "barrio": "Maipu",
+        "asignacion": "Acomodador",
+        "fechas": [
+          {"fecha": "22/8/2024", "turno": "Tarde-2"},
+          {"fecha": "29/8/2024", "turno": "Tarde-2"},
+          {"fecha": "5/9/2024", "turno": "Tarde-2"}
+        ]
+      },
+      {
+        "nombre": "Erlinda Guerrero",
+        "barrio": "Maipu",
+        "asignacion": "Acomodador",
+        "fechas": [
+          {"fecha": "22/8/2024", "turno": "Tarde-1"},
+          {"fecha": "29/8/2024", "turno": "Tarde-1"},
+          {"fecha": "5/9/2024", "turno": "Tarde-1"}
+        ]
+      },
+      {
+        "nombre": "Cinthia Carmen Amalla",
+        "barrio": "Maipu",
+        "asignacion": "Acomodador",
+        "fechas": [
+          {"fecha": "22/8/2024", "turno": "Mañana-2"},
+          {"fecha": "29/8/2024", "turno": "Mañana-2"},
+          {"fecha": "5/9/2024", "turno": "Mañana-2"}
+        ]
+      },
+      {
+        "nombre": "Lorena Elizabeth Walker",
+        "barrio": "Maipu",
+        "asignacion": "Acomodador",
+        "fechas": [
+          {"fecha": "22/8/2024", "turno": "Tarde-1"},
+          {"fecha": "29/8/2024", "turno": "Tarde-1"},
+          {"fecha": "5/9/2024", "turno": "Tarde-1"}
+        ]
+      },
+      {
+        "nombre": "Doris Monica del Carmen Gonzalez",
+        "barrio": "Maipu",
+        "asignacion": "Acomodador",
+        "fechas": [
+          {"fecha": "22/8/2024", "turno": "Tarde-2"},
+          {"fecha": "29/8/2024", "turno": "Tarde-2"},
+          {"fecha": "5/9/2024", "turno": "Tarde-2"}
+        ]
+      },
+      {
+        "nombre": "Luciana Noelia Moran",
+        "barrio": "Maipu",
+        "asignacion": "Acomodador",
+        "fechas": [
+          {"fecha": "22/8/2024", "turno": "Noche-2"},
+          {"fecha": "29/8/2024", "turno": "Tarde-2"},
+          {"fecha": "5/9/2024", "turno": "N/A"}
+        ]
+      },
+      {
+        "nombre": "Gilda Moron",
+        "barrio": "Maipu",
+        "asignacion": "Acomodador",
+        "fechas": [
+          {"fecha": "22/8/2024", "turno": "Noche-2"},
+          {"fecha": "29/8/2024", "turno": "Noche-2"},
+          {"fecha": "5/9/2024", "turno": "Noche-2"}
+        ]
+      },
+      {
+        "nombre": "Lorena Elizabeth Mariño",
+        "barrio": "Maipu",
+        "asignacion": "Acomodador",
+        "fechas": [
+          {"fecha": "22/8/2024", "turno": "Mañana-2"},
+          {"fecha": "29/8/2024", "turno": "Mañana-2"},
+          {"fecha": "5/9/2024", "turno": "Mañana-2"}
+        ]
+      },
+      {
+        "nombre": "Juan Pablo Bustos",
+        "barrio": "Maipu",
+        "asignacion": "Acomodador",
+        "fechas": [
+          {"fecha": "22/8/2024", "turno": "Mañana-2"},
+          {"fecha": "29/8/2024", "turno": "Mañana-2"},
+          {"fecha": "5/9/2024", "turno": "Tarde-2"}
+        ]
+      },
+      {
+        "nombre": "Andres Emiliano Duran",
+        "barrio": "Maipu",
+        "asignacion": "Acomodador",
+        "fechas": [
+          {"fecha": "22/8/2024", "turno": "Tarde-1"},
+          {"fecha": "29/8/2024", "turno": "Tarde-1"},
+          {"fecha": "5/9/2024", "turno": "Tarde-1"}
+        ]
+      },
+      {
+        "nombre": "Joel Ezequiel Diaz",
+        "barrio": "Maipu",
+        "asignacion": "Acomodador",
+        "fechas": [
+          {"fecha": "22/8/2024", "turno": "Tarde-2"},
+          {"fecha": "29/8/2024", "turno": "Tarde-2"},
+          {"fecha": "5/9/2024", "turno": "Tarde-2"}
+        ]
+      },
+      {
+        "nombre": "Efrain Daniel Lissandrello",
+        "barrio": "Maipu",
+        "asignacion": "Cubre Calzado",
+        "fechas": [
+            {"fecha": "22/8/2024", "turno": "Tarde-2"},
+            {"fecha": "29/8/2024", "turno": "Tarde-2"},
+            {"fecha": "5/9/2024", "turno": "Tarde-2"}
+        ]
+    },
+    {
+        "nombre": "Martina Banffi Fredes",
+        "barrio": "Maipu",
+        "asignacion": "Cubre Calzado",
+        "fechas": [
+            {"fecha": "22/8/2024", "turno": "Mañana-1"},
+            {"fecha": "29/8/2024", "turno": "Mañana-2"},
+            {"fecha": "5/9/2024", "turno": "Tarde-1"}
+        ]
+    },
+    {
+        "nombre": "Trinidad Agustina Banffi Fredes",
+        "barrio": "Maipu",
+        "asignacion": "Cubre Calzado",
+        "fechas": [
+            {"fecha": "22/8/2024", "turno": "Mañana-1"},
+            {"fecha": "29/8/2024", "turno": "Mañana-2"},
+            {"fecha": "5/9/2024", "turno": "Tarde-2"}
+        ]
+    },
+    {
+        "nombre": "Luz Milagros Magallanes",
+        "barrio": "Maipu",
+        "asignacion": "Cubre Calzado",
+        "fechas": [
+            {"fecha": "22/8/2024", "turno": "Mañana-1"},
+            {"fecha": "29/8/2024", "turno": "Mañana-1"},
+            {"fecha": "5/9/2024", "turno": "Mañana-1"}
+        ]
+    },
+    {
+        "nombre": "Victoria Evangelina Perez Pinna",
+        "barrio": "Maipu",
+        "asignacion": "Cubre Calzado",
+        "fechas": [
+            {"fecha": "22/8/2024", "turno": "Tarde-1"},
+            {"fecha": "29/8/2024", "turno": "Tarde-1"},
+            {"fecha": "5/9/2024", "turno": "Tarde-1"}
+        ]
+    },
+    {
+        "nombre": "Maria Florencia Perez Pinna",
+        "barrio": "Maipu",
+        "asignacion": "Cubre Calzado",
+        "fechas": [
+            {"fecha": "22/8/2024", "turno": "Tarde-2"},
+            {"fecha": "29/8/2024", "turno": "Tarde-2"},
+            {"fecha": "5/9/2024", "turno": "Tarde-2"}
+        ]
+    },
+    {
+        "nombre": "Ivo Martin Gonzalez",
+        "barrio": "Maipu",
+        "asignacion": "Cubre Calzado",
+        "fechas": [
+            {"fecha": "22/8/2024", "turno": "Mañana-2"},
+            {"fecha": "29/8/2024", "turno": "Mañana-2"},
+            {"fecha": "5/9/2024", "turno": "Mañana-2"}
+        ]
+    },
+    {
+        "nombre": "Josué Javier Perez Pinna",
+        "barrio": "Maipu",
+        "asignacion": "Cubre Calzado",
+        "fechas": [
+            {"fecha": "22/8/2024", "turno": "Tarde-2"},
+            {"fecha": "29/8/2024", "turno": "Tarde-1"},
+            {"fecha": "5/9/2024", "turno": "Tarde-1"}
+        ]
+    },
+    {
+        "nombre": "Rebeca Durán",
+        "barrio": "Maipu",
+        "asignacion": "Cubre Calzado",
+        "fechas": [
+            {"fecha": "22/8/2024", "turno": "Mañana-1"},
+            {"fecha": "29/8/2024", "turno": "Mañana-1"},
+            {"fecha": "5/9/2024", "turno": "Mañana-1"}
+        ]
+    },
+    {
+        "nombre": "Candela Abigail Perez Pinna",
+        "barrio": "Maipu",
+        "asignacion": "Cubre Calzado",
+        "fechas": [
+            {"fecha": "22/8/2024", "turno": "Tarde-2"},
+            {"fecha": "29/8/2024", "turno": "Noche-2"},
+            {"fecha": "5/9/2024", "turno": "Noche-2"}
+        ]
+    },
+    {
+        "nombre": "Benjamin Sergio Puebla",
+        "barrio": "Maipu",
+        "asignacion": "Cubre Calzado",
+        "fechas": [
+            {"fecha": "22/8/2024", "turno": "Mañana-2"},
+            {"fecha": "29/8/2024", "turno": "Mañana-2"},
+            {"fecha": "5/9/2024", "turno": "Mañana-2"}
+        ]
+    },
+    {
+        "nombre": "Virginia Durán",
+        "barrio": "Maipu",
+        "asignacion": "Cubre Calzado",
+        "fechas": [
+            {"fecha": "22/8/2024", "turno": "Mañana-1"},
+            {"fecha": "29/8/2024", "turno": "Mañana-1"},
+            {"fecha": "5/9/2024", "turno": "Mañana-1"}
+        ]
+    }
+
+]
+  

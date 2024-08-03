@@ -1,0 +1,382 @@
+[
+    {
+        "nombre": "Augusto Arián Calisaya Wünkhaus",
+        "barrio": "Gutierrez",
+        "asignacion": "Cubre Calzado",
+        "fechas": [
+            {
+                "fecha": "2024-08-22",
+                "turno": "mañana-1"
+            },
+            {
+                "fecha": "2024-08-29",
+                "turno": "mañana-1"
+            },
+            {
+                "fecha": "2024-09-05",
+                "turno": "mañana-1"
+            }
+        ]
+    },
+    {
+        "nombre": "Pilar Agostina Alvarez Dominguez",
+        "barrio": "Gutierrez",
+        "asignacion": "Cubre Calzado",
+        "fechas": [
+            {
+                "fecha": "2024-08-22",
+                "turno": "tarde-2"
+            },
+            {
+                "fecha": "2024-08-29",
+                "turno": "No asignado"
+            },
+            {
+                "fecha": "2024-09-05",
+                "turno": "tarde-2"
+            }
+        ]
+    },
+    {
+        "nombre": "Malena Dafne Alvarez Dominguez",
+        "barrio": "Gutierrez",
+        "asignacion": "Cubre Calzado",
+        "fechas": [
+            {
+                "fecha": "2024-08-22",
+                "turno": "tarde-2"
+            },
+            {
+                "fecha": "2024-08-29",
+                "turno": "No asignado"
+            },
+            {
+                "fecha": "2024-09-05",
+                "turno": "tarde-2"
+            }
+        ]
+    },
+    {
+        "nombre": "Paloma Tidei",
+        "barrio": "Gutierrez",
+        "asignacion": "Cubre Calzado",
+        "fechas": [
+            {
+                "fecha": "2024-08-22",
+                "turno": "tarde-2"
+            },
+            {
+                "fecha": "2024-08-29",
+                "turno": "mañana-2"
+            },
+            {
+                "fecha": "2024-09-05",
+                "turno": "tarde-2"
+            }
+        ]
+    },
+    {
+        "nombre": "Santiago Alejandro Acosta",
+        "barrio": "Gutierrez",
+        "asignacion": "Cubre Calzado",
+        "fechas": [
+            {
+                "fecha": "2024-08-22",
+                "turno": "mañana-1"
+            },
+            {
+                "fecha": "2024-08-29",
+                "turno": "noche-2"
+            },
+            {
+                "fecha": "2024-09-05",
+                "turno": "noche-2"
+            }
+        ]
+    },
+    {
+        "nombre": "Martín Gonzalo Vilche Aguero",
+        "barrio": "Gutierrez",
+        "asignacion": "Cubre Calzado",
+        "fechas": [
+            {
+                "fecha": "2024-08-22",
+                "turno": "mañana-1"
+            },
+            {
+                "fecha": "2024-08-29",
+                "turno": "noche-2"
+            },
+            {
+                "fecha": "2024-09-05",
+                "turno": "noche-2"
+            }
+        ]
+    },
+    {
+        "nombre": "Lua Monserrat Moreno",
+        "barrio": "Gutierrez",
+        "asignacion": "Cubre Calzado",
+        "fechas": [
+            {
+                "fecha": "2024-08-22",
+                "turno": "No asignado"
+            },
+            {
+                "fecha": "2024-08-29",
+                "turno": "noche-2"
+            },
+            {
+                "fecha": "2024-09-05",
+                "turno": "noche-2"
+            }
+        ]
+    },
+    {
+        "nombre": "Giuliana Alma Morena Vilche Sinchicay",
+        "barrio": "Gutierrez",
+        "asignacion": "Cubre Calzado",
+        "fechas": [
+            {
+                "fecha": "2024-08-22",
+                "turno": "noche-1"
+            },
+            {
+                "fecha": "2024-08-29",
+                "turno": "noche-1"
+            },
+            {
+                "fecha": "2024-09-05",
+                "turno": "noche-1"
+            }
+        ]
+    },
+    {
+        "nombre": "Acosta, Alejandro Pablo & Nancy Gladys",
+        "barrio": "Gutierrez",
+        "asignacion": "Guía de Recorrido",
+        "fechas": [
+            {
+                "fecha": "2024-08-22",
+                "turno": "mañana-1"
+            },
+            {
+                "fecha": "2024-08-29",
+                "turno": "noche-2"
+            },
+            {
+                "fecha": "2024-09-05",
+                "turno": "No asignado"
+            }
+        ]
+    },
+    {
+        "nombre": "Calisaya, Augusto Luis & María Soledad",
+        "barrio": "Gutierrez",
+        "asignacion": "Guía de Recorrido",
+        "fechas": [
+            {
+                "fecha": "2024-08-22",
+                "turno": "mañana-1"
+            },
+            {
+                "fecha": "2024-08-29",
+                "turno": "mañana-1"
+            },
+            {
+                "fecha": "2024-09-05",
+                "turno": "mañana-1"
+            }
+        ]
+    },
+    {
+        "nombre": "Saad, Guillermo Abel & Melisa Ayelen",
+        "barrio": "Gutierrez",
+        "asignacion": "Guía de Recorrido",
+        "fechas": [
+            {
+                "fecha": "2024-08-22",
+                "turno": "mañana-2"
+            },
+            {
+                "fecha": "2024-08-29",
+                "turno": "mañana-2"
+            },
+            {
+                "fecha": "2024-09-05",
+                "turno": "mañana-2"
+            }
+        ]
+    },
+    {
+        "nombre": "Patiño, Alberto William & Carina Dolores",
+        "barrio": "Gutierrez",
+        "asignacion": "Guía de Recorrido",
+        "fechas": [
+            {
+                "fecha": "2024-08-22",
+                "turno": "No asignado"
+            },
+            {
+                "fecha": "2024-08-29",
+                "turno": "tarde-2"
+            },
+            {
+                "fecha": "2024-09-05",
+                "turno": "No asignado"
+            }
+        ]
+    },
+    {
+        "nombre": "Azcurra, Aldo Antonio & Johana Marina",
+        "barrio": "Gutierrez",
+        "asignacion": "Guía de Recorrido",
+        "fechas": [
+            {
+                "fecha": "2024-08-22",
+                "turno": "mañana-1"
+            },
+            {
+                "fecha": "2024-08-29",
+                "turno": "mañana-1"
+            },
+            {
+                "fecha": "2024-09-05",
+                "turno": "mañana-1"
+            }
+        ]
+    },
+    {
+        "nombre": "Italiani, Facundo Luciano & Fiorella Gretel",
+        "barrio": "Gutierrez",
+        "asignacion": "Guía de Recorrido",
+        "fechas": [
+            {
+                "fecha": "2024-08-22",
+                "turno": "mañana-2"
+            },
+            {
+                "fecha": "2024-08-29",
+                "turno": "mañana-2"
+            },
+            {
+                "fecha": "2024-09-05",
+                "turno": "mañana-2"
+            }
+        ]
+    },
+    {
+        "nombre": "Molto, Martin Alejandro & Maria Eugenia",
+        "barrio": "Gutierrez",
+        "asignacion": "Guía de Recorrido",
+        "fechas": [
+            {
+                "fecha": "2024-08-22",
+                "turno": "mañana-2"
+            },
+            {
+                "fecha": "2024-08-29",
+                "turno": "mañana-2"
+            },
+            {
+                "fecha": "2024-09-05",
+                "turno": "mañana-2"
+            }
+        ]
+    },
+    {
+        "nombre": "Vilches, Pablo Marcelo & Daiana",
+        "barrio": "Gutierrez",
+        "asignacion": "Guía de Recorrido",
+        "fechas": [
+            {
+                "fecha": "2024-08-22",
+                "turno": "mañana-1"
+            },
+            {
+                "fecha": "2024-08-29",
+                "turno": "mañana-1"
+            },
+            {
+                "fecha": "2024-09-05",
+                "turno": "mañana-1"
+            }
+        ]
+    },
+    {
+        "nombre": "Vásquez, Ramiro & Isabel",
+        "barrio": "Gutierrez",
+        "asignacion": "Guía de Recorrido",
+        "fechas": [
+            {
+                "fecha": "2024-08-22",
+                "turno": "mañana-2"
+            },
+            {
+                "fecha": "2024-08-29",
+                "turno": "mañana-2"
+            },
+            {
+                "fecha": "2024-09-05",
+                "turno": "mañana-2"
+            }
+        ]
+    },
+    {
+        "nombre": "Belen Soledad Bogado",
+        "barrio": "Tupungato",
+        "asignacion": "Guía de Recorrido",
+        "fechas": [
+            {
+                "fecha": "2024-08-22",
+                "turno": "mañana-2"
+            },
+            {
+                "fecha": "2024-08-29",
+                "turno": "mañana-2"
+            },
+            {
+                "fecha": "2024-09-05",
+                "turno": "mañana-2"
+            }
+        ]
+    },
+    {
+        "nombre": "Luciana Elizabet Giordano",
+        "barrio": "Tupungato",
+        "asignacion": "Guía de Recorrido",
+        "fechas": [
+            {
+                "fecha": "2024-08-22",
+                "turno": "No asignado"
+            },
+            {
+                "fecha": "2024-08-29",
+                "turno": "mañana-2"
+            },
+            {
+                "fecha": "2024-09-05",
+                "turno": "No asignado"
+            }
+        ]
+    },
+    {
+        "nombre": "Joaquín Valenzuela",
+        "barrio": "Tupungato",
+        "asignacion": "Guía de Recorrido",
+        "fechas": [
+            {
+                "fecha": "2024-08-22",
+                "turno": "No asignado"
+            },
+            {
+                "fecha": "2024-08-29",
+                "turno": "No asignado"
+            },
+            {
+                "fecha": "2024-09-05",
+                "turno": "No asignado"
+            }
+        ]
+    }
+]

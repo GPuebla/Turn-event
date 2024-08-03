@@ -1,0 +1,46 @@
+<!DOCTYPE html>
+<html lang="es">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Consulta de Turnos</title>
+    <link rel="stylesheet" href="/style.css">
+</head>
+<body>
+    <div class="container">
+        <h1>Consulta de Turnos</h1>
+        <form id="consultaForm">
+            <label for="barrio">Seleccione su barrio:</label>
+            <select id="barrio" name="barrio" required>
+                <option value="">Seleccione su barrio</option>
+                <option value="Gutierrez">Gutierrez</option>
+                <option value="La Gloria">La Gloria</option>
+                <option value="Maipu">Maipu</option>
+                <option value="Barrio4">Barrio4</option>
+                <option value="Barrio5">Barrio5</option>
+                <option value="Barrio6">Barrio6</option>
+            </select>
+
+            <label for="asignacion">Seleccione su asignación:</label>
+            <select id="asignacion" name="asignacion" required>
+                <option value="">Seleccione su asignación</option>
+                <option value="Cubre Calzado">Cubre Calzado</option>
+                <option value="Acomodador">Acomodador</option>
+                <option value="Guía de Recorrido">Guía de Recorrido</option>
+            </select>
+
+            <label for="nombre">Seleccione su nombre:</label>
+            <select id="nombre" name="nombre" required>
+                <option value="">Seleccione su nombre</option>
+                <!-- Las opciones se cargarán dinámicamente -->
+            </select>
+
+            <button type="submit">Consultar</button>
+        </form>
+
+        <div id="resultado"></div>
+    </div>
+
+    <script src="script.js"></script>
+</body>
+</html>
